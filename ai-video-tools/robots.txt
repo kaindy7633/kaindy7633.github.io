@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kaindy7633.github.io/ai-video-tools/sitemap.xml
