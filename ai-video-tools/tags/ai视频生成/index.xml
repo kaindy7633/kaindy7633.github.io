@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI视频生成 on AI视频工具导航 — 评测 · 教程 · 变现指南</title><link>https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/</link><description>Recent content in AI视频生成 on AI视频工具导航 — 评测 · 教程 · 变现指南</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml"/><item><title>2026年AI视频生成工具横评：Seedance 2.0 vs Kling 2.0 vs Runway Gen-4 谁更强？</title><link>https://kaindy7633.github.io/ai-video-tools/tools/seedance-vs-kling-vs-runway-2026/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://kaindy7633.github.io/ai-video-tools/tools/seedance-vs-kling-vs-runway-2026/</guid><description>深度对比三大主流AI视频生成工具：字节Seedance 2.0、快手Kling 2.0、Runway Gen-4。从画质、一致性、价格、中文支持等8个维度全面评测。</description></item><item><title>2026年ComfyUI入门指南：AI视频生成的瑞士军刀</title><link>https://kaindy7633.github.io/ai-video-tools/tutorials/comfyui-beginners-guide-2026/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://kaindy7633.github.io/ai-video-tools/tutorials/comfyui-beginners-guide-2026/</guid><description>零基础ComfyUI入门教程，从安装到第一个工作流，再到图生视频进阶。详解节点式工作流、ComfyUI Manager、常见排错，助你成为AI视频生成高手。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI视频生成 on AI视频工具导航 — 评测 · 教程 · 变现指南</title>
+    <link>https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/</link>
+    <description>Recent content in AI视频生成 on AI视频工具导航 — 评测 · 教程 · 变现指南</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年AI视频生成工具横评：Seedance 2.0 vs Kling 2.0 vs Runway Gen-4 谁更强？</title>
+      <link>https://kaindy7633.github.io/ai-video-tools/tools/seedance-vs-kling-vs-runway-2026/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaindy7633.github.io/ai-video-tools/tools/seedance-vs-kling-vs-runway-2026/</guid>
+      <description>深度对比三大主流AI视频生成工具：字节Seedance 2.0、快手Kling 2.0、Runway Gen-4。从画质、一致性、价格、中文支持等8个维度全面评测。</description>
+    </item>
+    
+    <item>
+      <title>2026年ComfyUI入门指南：AI视频生成的瑞士军刀</title>
+      <link>https://kaindy7633.github.io/ai-video-tools/tutorials/comfyui-beginners-guide-2026/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaindy7633.github.io/ai-video-tools/tutorials/comfyui-beginners-guide-2026/</guid>
+      <description>零基础ComfyUI入门教程，从安装到第一个工作流，再到图生视频进阶。详解节点式工作流、ComfyUI Manager、常见排错，助你成为AI视频生成高手。</description>
+    </item>
+    
+  </channel>
+</rss>

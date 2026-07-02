@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI视频 on AI视频工具导航 — 评测 · 教程 · 变现指南</title><link>https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91/</link><description>Recent content in AI视频 on AI视频工具导航 — 评测 · 教程 · 变现指南</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml"/><item><title>AI视频运镜大师课：导演思维让你的AI演员从群演变主角</title><link>https://kaindy7633.github.io/ai-video-tools/tutorials/ai-camera-direction-guide-2026/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://kaindy7633.github.io/ai-video-tools/tutorials/ai-camera-direction-guide-2026/</guid><description>为什么别人的AI视频主角像电影，你的却像路人甲？答案不在工具而在导演思维。深度拆解闯入镜头、藏露式亮相、情绪路线图、可复用Prompt Pack四大运镜技法。</description></item><item><title>RunPod云端GPU跑AI视频——最低$0.86/小时的完整教程</title><link>https://kaindy7633.github.io/ai-video-tools/tutorials/runpod-cloud-gpu-ai-video-2026/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://kaindy7633.github.io/ai-video-tools/tutorials/runpod-cloud-gpu-ai-video-2026/</guid><description>手把手教你用RunPod云端GPU跑AI视频生成，最低$0.86/小时。从注册充值、选模板搭ComfyUI环境，到跑通LTX2.3第一个视频，再到成本控制与避坑，一篇全覆盖。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI视频 on AI视频工具导航 — 评测 · 教程 · 变现指南</title>
+    <link>https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91/</link>
+    <description>Recent content in AI视频 on AI视频工具导航 — 评测 · 教程 · 变现指南</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kaindy7633.github.io/ai-video-tools/tags/ai%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI视频运镜大师课：导演思维让你的AI演员从群演变主角</title>
+      <link>https://kaindy7633.github.io/ai-video-tools/tutorials/ai-camera-direction-guide-2026/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaindy7633.github.io/ai-video-tools/tutorials/ai-camera-direction-guide-2026/</guid>
+      <description>为什么别人的AI视频主角像电影，你的却像路人甲？答案不在工具而在导演思维。深度拆解闯入镜头、藏露式亮相、情绪路线图、可复用Prompt Pack四大运镜技法。</description>
+    </item>
+    
+    <item>
+      <title>RunPod云端GPU跑AI视频——最低$0.86/小时的完整教程</title>
+      <link>https://kaindy7633.github.io/ai-video-tools/tutorials/runpod-cloud-gpu-ai-video-2026/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaindy7633.github.io/ai-video-tools/tutorials/runpod-cloud-gpu-ai-video-2026/</guid>
+      <description>手把手教你用RunPod云端GPU跑AI视频生成，最低$0.86/小时。从注册充值、选模板搭ComfyUI环境，到跑通LTX2.3第一个视频，再到成本控制与避坑，一篇全覆盖。</description>
+    </item>
+    
+  </channel>
+</rss>

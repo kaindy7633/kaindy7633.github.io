@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Productions on AI视频工具导航 — 评测 · 教程 · 变现指南</title><link>https://kaindy7633.github.io/ai-video-tools/production/</link><description>Recent content in Productions on AI视频工具导航 — 评测 · 教程 · 变现指南</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kaindy7633.github.io/ai-video-tools/production/index.xml" rel="self" type="application/rss+xml"/><item><title>2026年AI短剧制作全流程——从剧本到成片，新手也能月产30条</title><link>https://kaindy7633.github.io/ai-video-tools/production/ai-drama-production-pipeline-2026/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://kaindy7633.github.io/ai-video-tools/production/ai-drama-production-pipeline-2026/</guid><description>零基础也能跑通的AI短剧工业化流水线：从AI编剧、角色资产管理、Shot Task Card分镜体系，到Seedance/Kling/LTX三模型分工，再到后期合成与审核避坑。一套完整可复制的制片流程。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productions on AI视频工具导航 — 评测 · 教程 · 变现指南</title>
+    <link>https://kaindy7633.github.io/ai-video-tools/production/</link>
+    <description>Recent content in Productions on AI视频工具导航 — 评测 · 教程 · 变现指南</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://kaindy7633.github.io/ai-video-tools/production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年AI短剧制作全流程——从剧本到成片，新手也能月产30条</title>
+      <link>https://kaindy7633.github.io/ai-video-tools/production/ai-drama-production-pipeline-2026/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://kaindy7633.github.io/ai-video-tools/production/ai-drama-production-pipeline-2026/</guid>
+      <description>零基础也能跑通的AI短剧工业化流水线：从AI编剧、角色资产管理、Shot Task Card分镜体系，到Seedance/Kling/LTX三模型分工，再到后期合成与审核避坑。一套完整可复制的制片流程。</description>
+    </item>
+    
+  </channel>
+</rss>
